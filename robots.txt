@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://climayservicios.surge.sh/sitemap.xml
